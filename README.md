@@ -4,7 +4,7 @@ MySQL dialect for [FeatherSQL](https://github.com/feather-framework/feather-sql)
 It provides MySQL-specific SQL syntax and serialization; it does not include a
 database connection or query execution layer.
 
-[![Release: 1.0.0-alpha.1](https://img.shields.io/badge/Release-1.0.0--alpha.1-F05138)](https://github.com/feather-framework/feather-sql-mysql/releases/tag/1.0.0-alpha.1)
+[![Release: 1.0.0-alpha.2](https://img.shields.io/badge/Release-1.0.0--alpha.2-F05138)](https://github.com/feather-framework/feather-sql-mysql/releases/tag/1.0.0-alpha.2)
 ![Swift 6.3+](https://img.shields.io/badge/Swift-6.3%2B-F05138)
 
 ## Requirements
@@ -19,7 +19,7 @@ Add FeatherSQL and its MySQL dialect to your package:
 
 ```swift
 .package(url: "https://github.com/feather-framework/feather-sql", exact: "1.0.0-alpha.1"),
-.package(url: "https://github.com/feather-framework/feather-sql-mysql", exact: "1.0.0-alpha.1"),
+.package(url: "https://github.com/feather-framework/feather-sql-mysql", exact: "1.0.0-alpha.2"),
 ```
 
 ```swift
