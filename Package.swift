@@ -34,7 +34,7 @@ let package = Package(
             url: "https://github.com/feather-framework/feather-sql",
             exact: "1.0.0-alpha.1"
         ),
-        .package(url: "https://github.com/apple/swift-crypto.git", from: "5.0.0"),
+        .package(url: "https://github.com/apple/swift-crypto.git", from: "4.0.0"),
     ],
     targets: [
         .target(
